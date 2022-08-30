@@ -1,6 +1,6 @@
 ### Hi there 👋, I am Mamun Sabuj
 #### Senior Software Engineer, Team Lead
-![Senior Software Engineer, Team Lead](https://scontent.fdac24-1.fna.fbcdn.net/v/t39.30808-6/291184976_5270634319690878_1366804440562885427_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=09cbfe&_nc_eui2=AeHWVhk5beGezAfAcVRdHXvss7_efap21Lazv959qnbUtnhcGieIbYAn9H18QhDfct7d3gLTH31Uwn16GN8gi4Yt&_nc_ohc=GIYeYQAcHXkAX_kAhQR&_nc_ht=scontent.fdac24-1.fna&oh=00_AT_4SRjUIiFohPg0Uiu6OjSQPW1KwiQFm7NvFqm8OJ7yFA&oe=63128515)
+![Senior Software Engineer, Team Lead](https://scontent.fdac24-2.fna.fbcdn.net/v/t39.30808-6/303235189_506309308161981_8581167191200022287_n.png?_nc_cat=103&ccb=1-7&_nc_sid=e3f864&_nc_ohc=4txmU3D0VmYAX_g1sye&_nc_ht=scontent.fdac24-2.fna&oh=00_AT-MPceH8MMBfQbDVcU0O3JPd9Qj37flMxVWhexhGUL0sg&oe=631404F7)
 
 A dynamic professional with more than 8+ years of experience in Software Development under 70+ projects. Seeking a Software Developer position with creative mind and superb skills in developing
 applications by means of the most modern of development tools and able to use well-honed skills in planning, coding and testing in order to develop state-of-the-art software solutions for the company’s
@@ -39,6 +39,3 @@ Wordpress (Theme & Plugin Development, Speed Optimization, Bug Fixing)
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/mamunsabuj)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/mamunsabuj/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/EngMamunSabuj)  
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=https://github.com/mamunsabuj&show_icons=true)  
-
-![Profile views](https://gpvc.arturio.dev/https://github.com/mamunsabuj)  
