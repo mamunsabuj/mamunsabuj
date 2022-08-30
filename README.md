@@ -1,6 +1,8 @@
+(https://scontent.fdac24-2.fna.fbcdn.net/v/t39.30808-6/303235189_506309308161981_8581167191200022287_n.png?_nc_cat=103&ccb=1-7&_nc_sid=e3f864&_nc_ohc=4txmU3D0VmYAX_g1sye&_nc_ht=scontent.fdac24-2.fna&oh=00_AT-MPceH8MMBfQbDVcU0O3JPd9Qj37flMxVWhexhGUL0sg&oe=631404F7)
+
 ### Hi there 👋, I am Mamun Sabuj
 #### Senior Software Engineer, Team Lead
-![Senior Software Engineer, Team Lead](https://scontent.fdac24-2.fna.fbcdn.net/v/t39.30808-6/303235189_506309308161981_8581167191200022287_n.png?_nc_cat=103&ccb=1-7&_nc_sid=e3f864&_nc_ohc=4txmU3D0VmYAX_g1sye&_nc_ht=scontent.fdac24-2.fna&oh=00_AT-MPceH8MMBfQbDVcU0O3JPd9Qj37flMxVWhexhGUL0sg&oe=631404F7)
+![Senior Software Engineer, Team Lead]
 
 A dynamic professional with more than 8+ years of experience in Software Development under 70+ projects. Seeking a Software Developer position with creative mind and superb skills in developing
 applications by means of the most modern of development tools and able to use well-honed skills in planning, coding and testing in order to develop state-of-the-art software solutions for the company’s
